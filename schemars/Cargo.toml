@@ -35,6 +35,7 @@ smol_str03 = { version = "0.3.2", default-features = false, optional = true, pac
 url2 = { version = "2.0", default-features = false, optional = true, package = "url" }
 uuid1 = { version = "1.0", default-features = false, optional = true, package = "uuid" }
 pnet_base035 = { version = "0.35", default-features = false, optional = true, package = "pnet_base"}
+ipnet2 = { version = "2.11", default-features = false, optional = true, package = "ipnet"}
 
 [dev-dependencies]
 pretty_assertions = "1.2.1"
